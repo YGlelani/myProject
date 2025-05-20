@@ -148,7 +148,7 @@ button:focus {
 /* Responsive styles for screens less than 800px */
 @media (max-width: 800px) {
     .nav-bar {
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
         font-size: 1em;
         padding: 10px 15px;
